@@ -21,10 +21,10 @@
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/2349152410217">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:bmclips001@gmail.com">
+  <a href="mailto:sketchifydev@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
@@ -45,7 +45,7 @@
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sketchify-Dev/Ikratos-MD-v1)
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
